@@ -13,4 +13,4 @@ Kopiera kod
 git clone https://github.com/elmi-dagel/Kunskapskontroll.SQL.git
 Öppna och kör kunskapskontroll.ipynb i Jupyter Notebook.
 Författare
-## Mahad Elmi
+Mahad Elmi
